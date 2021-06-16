@@ -1,0 +1,27 @@
+# Site settings
+title: tahakhan.net
+name: Taha Khan
+email: tkhan@wlu.edu
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tahakhan.net" # the base hostname & protocol for your site
+github_username:  tahakhan5
+instagram_name: t.krad
+google_scholar: true
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+job_title: "Assistant Professor"
+excerpt_separator: "<!--more-->"
+
+defualt:
+  - scope:
+    path: "files/"
+    
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""

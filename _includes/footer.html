@@ -1,0 +1,109 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+<!--     <h2 class="footer-heading">{{ site.title }}</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list" style="margin-left: 10px;">
+          <li><strong>{{ site.name }}</strong></li>
+          <li>Assistant Professor</strong></li>
+          <li><a href="mailto:{{ site.email }}">
+            <span class="icon  icon--twitter">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+              aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <title>Mail</title>
+                <desc>A solid styled icon from Orion Icon Library.</desc>
+                <path data-name="layer1"
+                fill="#202020" d="M2 14.7v34.4l17.2-17.5L2 14.7zm42.8 16.9L62 49.1V14.7L44.8 31.6z"></path>
+                <path data-name="layer2" fill="#202020" d="M59.1 12H5l27 26.6L59.1 12z"></path>
+                <path data-name="layer1" fill="#202020" d="M32 44.2l-10-9.8L4.7 52h54.6L42 34.4l-10 9.8z"></path>
+              </svg>
+            </span>
+            {{ site.email }} </a> |  <a href="tel:540-458-4861"> 
+          <span class="icon  icon--twitter">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+            aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <title>Phone</title>
+              <desc>A solid styled icon from Orion Icon Library.</desc>
+              <path data-name="layer2"
+              d="M58.7 11.4C53.5 6.3 43.1 4 32 4S10.5 6.3 5.3 11.4a11.2 11.2 0 0 0-2 13.2c1.4 1.8 3.3 1.3 4.6 1.1L15 24a3.9 3.9 0 0 0 3-4.5c-.3-3 1.4-7.5 14-7.5s14.3 4.4 14 7.5 2.9 4.3 4 4.5 4.8 1.5 6.1 1.8 3.2.8 4.6-1.1a11.2 11.2 0 0 0-2-13.3z"
+              fill="#202020"></path>
+              <path data-name="layer1" d="M40 26.8V20a2 2 0 1 0-4 0v6.1h-8V20a2 2 0 0 0-4 0v6.8A22 22 0 0 0 8 48v12h48V48a22 22 0 0 0-16-21.2zM23 54h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm10 16h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm10 16h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4z"
+              fill="#202020"></path>
+            </svg>
+          </span>
+            (540) 458-4861</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list" style="margin-left: 50px;">
+          {% if site.google_scholar %}
+          <li>
+            <a href="https://scholar.google.com/citations?user=NDPIex8AAAAJ">
+              <span class="icon  icon--twitter">
+                <svg height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                  <g fill="none" fill-rule="evenodd"><path d="M256 411.12L0 202.667 256 0z" fill="#4285f4"/>
+                    <path d="M256 411.12l256-208.453L256 0z" fill="#356ac3"/>
+                    <circle cx="256" cy="362.667" fill="#a0c3ff" r="149.333"/>
+                    <path d="M121.037 298.667c23.968-50.453 75.392-85.334 134.963-85.334s110.995 34.881 134.963 85.334H121.037z" fill="#76a7fa"/>
+                  </g>
+                </svg>
+              </span>
+              <span class="username">Google Scholar</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.instagram_name %}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram_name }}">
+              <span class="icon  icon--instagram">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 0 72 72" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Instagram</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M8.2 0h47.6A7.989 7.989 0 0 1 64 8.2v47.6a7.989 7.989 0 0 1-8.2 8.2H8.2A7.989 7.989 0 0 1 0 55.8V8.2A7.989 7.989 0 0 1 8.2 0zm38.4 7.1a2.9 2.9 0 0 0-2.9 2.9v6.9a2.9 2.9 0 0 0 2.9 2.9h7.2a2.9 2.9 0 0 0 2.9-2.9V10a2.9 2.9 0 0 0-2.9-2.9zm10.2 20h-5.6a19.758 19.758 0 0 1 .8 5.5c0 10.6-8.9 19.3-19.9 19.3s-19.9-8.6-19.9-19.3a19.758 19.758 0 0 1 .8-5.5H7.1v27a2.476 2.476 0 0 0 2.5 2.5h44.6a2.476 2.476 0 0 0 2.5-2.5l.1-27zm-24.7-7.7a12.723 12.723 0 0 0-12.9 12.5 12.64 12.64 0 0 0 12.9 12.4A12.723 12.723 0 0 0 45 31.8a12.64 12.64 0 0 0-12.9-12.4z"
+  fill="#202020"></path>
+</svg>
+              </span>
+
+              <span class="username"> {{ site.instagram_name }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+
+
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+         <p class="text" style="margin-left: 190px;">
+          Department of Computer Science
+          <br>Washington and Lee University
+          <br>Lexington, VA 24450
+      </div>
+    </div>
+
+  </div>
+
+  <!-- This website is a modified version of the jekyll template developed by Steven Miller, Joel Glovier and Alex King (https://github.com/svmiller/steve-ngvb-jekyll-template). -->
+</footer>
