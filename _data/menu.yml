@@ -4,8 +4,8 @@
 - title: "Publications"
   href: "/publications/"
 
-- title: "Research"
-  href: "/research/"
+# - title: "Research"
+#   href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
@@ -13,5 +13,5 @@
 - title: "CV"
   href: "/files/khan_cv.pdf"
 
-- title: "Personal"
-  href: "/personal/"
+# - title: "Personal"
+#   href: "/personal/"
