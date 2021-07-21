@@ -37,7 +37,7 @@ permalink: /publications/
 ###### **[[PDF]](/files/hirsch_soups_18.pdf) | [[Poster]](/files/hirsch_soups_18_poster.pdf)**
 
 ### __Integrating Ethics in Cybersecurity Education__
-#### __<u>Mohammad Taha Khan</u>__ Chris Kanich, Cynthia Taylor. 
+#### __<u>Mohammad Taha Khan</u>__, Chris Kanich, Cynthia Taylor. 
 ##### In Proceedings of the New Approaches to Cybersecurity Education (NACE 18), New Orleans, LA, June 2018.
 ###### **[[PDF]](/files/khan_naces_18.pdf)**
 
