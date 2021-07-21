@@ -6,15 +6,15 @@ permalink: /publications/
 # <u>Conference and Workshop Publications</u>
 <br>
 
-### __Blind In/On-Path Attacks and Applications to VPNs__
-#### William J. Tolley, Beau Kujath, __<u>Mohammad Taha Khan</u>__, Narseo Vallina-Rodriguez, Jedidiah R. Crandall
-##### Proceedings of the USENIX Security Symposium, Vancouver, B.C., Canada, August 2021.
-###### **[[PDF]](/files/tolley_usenix_21.pdf) | [[Slides]](/files/tolley_usenix_21_slides.pdf)**
-
 ### __Helping Users Automatically Find and Manage Sensitive, Expendable Files in Cloud Storage__
 #### __<u>Mohammad Taha Khan</u>__, Christopher Tran, Shubham Singh, Dimitri Vasilkov, Chris Kanich, Blase Ur, Elena Zheleva
 ##### Proceedings of the USENIX Security Symposium, Vancouver, B.C., Canada, August 2021.
 ###### **[[PDF]](/files/khan_usenix_21.pdf) | [[Slides]](/files/khan_usenix_21_slides.pdf)**
+
+### __Blind In/On-Path Attacks and Applications to VPNs__
+#### William J. Tolley, Beau Kujath, __<u>Mohammad Taha Khan</u>__, Narseo Vallina-Rodriguez, Jedidiah R. Crandall
+##### Proceedings of the USENIX Security Symposium, Vancouver, B.C., Canada, August 2021.
+###### **[[PDF]](/files/tolley_usenix_21.pdf) | [[Slides]](/files/tolley_usenix_21_slides.pdf)**
 
 ### __Early Research Scholars Program at UIC__
 #### Renata A. Revelo, Joseph Hummel, __<u>Mohammad Taha Khan</u>__.

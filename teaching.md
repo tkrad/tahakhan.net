@@ -20,7 +20,7 @@ With computer science being a rapidly evolving field, I realize that an importan
 # <u>Courses</u>
 <div style="margin-bottom:40px"></div>
 
-<h3><div style = "color:#0076A8; font-weight: bold; font-size:1.05em">Washinton and Lee University</div></h3>
+<h3><div style = "color:#0076A8; font-weight: bold; font-size:1.05em">Washington and Lee University</div></h3>
 
 <div style = "color:black; font-weight: bold; font-size:19px; margin-bottom:15px">Fall 2021</div>
 
