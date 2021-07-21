@@ -7,12 +7,12 @@ permalink: /publications/
 <br>
 
 ### __Helping Users Automatically Find and Manage Sensitive, Expendable Files in Cloud Storage__
-#### __<u>Mohammad Taha Khan</u>__, Christopher Tran, Shubham Singh, Dimitri Vasilkov, Chris Kanich, Blase Ur, Elena Zheleva
+#### __<u>Mohammad Taha Khan</u>__, Christopher Tran, Shubham Singh, Dimitri Vasilkov, Chris Kanich, Blase Ur, Elena Zheleva.
 ##### Proceedings of the USENIX Security Symposium, Vancouver, B.C., Canada, August 2021.
 ###### **[[PDF]](/files/khan_usenix_21.pdf) | [[Slides]](/files/khan_usenix_21_slides.pdf)**
 
 ### __Blind In/On-Path Attacks and Applications to VPNs__
-#### William J. Tolley, Beau Kujath, __<u>Mohammad Taha Khan</u>__, Narseo Vallina-Rodriguez, Jedidiah R. Crandall
+#### William J. Tolley, Beau Kujath, __<u>Mohammad Taha Khan</u>__, Narseo Vallina-Rodriguez, Jedidiah R. Crandall.
 ##### Proceedings of the USENIX Security Symposium, Vancouver, B.C., Canada, August 2021.
 ###### **[[PDF]](/files/tolley_usenix_21.pdf) | [[Slides]](/files/tolley_usenix_21_slides.pdf)**
 
@@ -37,7 +37,7 @@ permalink: /publications/
 ###### **[[PDF]](/files/hirsch_soups_18.pdf) | [[Poster]](/files/hirsch_soups_18_poster.pdf)**
 
 ### __Integrating Ethics in Cybersecurity Education__
-#### __<u>Mohammad Taha Khan</u>__ Chris Kanich and Cynthia Taylor. 
+#### __<u>Mohammad Taha Khan</u>__ Chris Kanich, Cynthia Taylor. 
 ##### In Proceedings of the New Approaches to Cybersecurity Education (NACE 18), New Orleans, LA, June 2018.
 ###### **[[PDF]](/files/khan_naces_18.pdf)**
 
