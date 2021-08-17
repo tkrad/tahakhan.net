@@ -24,9 +24,9 @@ With computer science being a rapidly evolving field, I realize that an importan
 
 <div style = "color:black; font-weight: bold; font-size:19px; margin-bottom:15px">Fall 2021</div>
 
-* <div style = "color:#0076A8; font-weight: bold; font-size:18px">CSCI 397 - Computer and Network Security - <a href="" target="_blank">[Course Website]</a></div>
+* <div style = "color:#0076A8; font-weight: bold; font-size:18px">CSCI 397 - Computer and Network Security</div>
 
-* <div style = "color:#0076A8; font-weight: bold; font-size:18px">CSCI 111 - Fundamentals of Programming I - <a href="" target="_blank">[Course Website]</a></div>
+* <div style = "color:#0076A8; font-weight: bold; font-size:18px">CSCI 111 - Fundamentals of Programming I</div>
 
 
 <div style = "color:black; font-weight: bold; font-size:19px; margin-bottom:15px">Winter 2021</div>
